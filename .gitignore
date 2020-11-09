@@ -1,0 +1,10 @@
+.classpath
+.factorypath
+.project
+.settings/
+target/
+logs/
+lib/
+aeron-data/
+*.log
+*.data
